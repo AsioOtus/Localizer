@@ -1,0 +1,32 @@
+{
+	"common": {
+		"save": {
+			"en": "Save",
+			"ru": "Сохранить"
+		},
+		"cancel": {
+			"en": "Cancel",
+			"ru": "Отменить"
+		}
+	},
+	"scheduleView": {
+		"schedule": {
+			"en": "Schedule",
+			"ru": "Расписание"
+		},
+		"lecture": {
+			"en": "Lecture",
+			"ru": "Лекция"
+		}
+	},
+	"secondView": {
+		"testA": {
+			"en": "TestA",
+			"ru": "ТестА"
+		},
+		"testB": {
+			"en": "TestB",
+			"ru": "ТестБ"
+		}
+	}
+}

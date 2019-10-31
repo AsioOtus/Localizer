@@ -1,0 +1,14 @@
+{
+	"login": {
+		"en": "Login",
+		"ru": "Логин"
+	},
+	"password": {
+		"en": "Password",
+		"ru": "Пароль"
+	},
+	"logIn": {
+		"en": "Log In",
+		"ru": "Войти"
+	}
+}
